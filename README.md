@@ -8,9 +8,6 @@ A beginner AI project using a neural network to classify handwritten digits from
 - Google Colab or Jupyter Notebook
 - MNIST Dataset
 
-## Sample Output
-![prediction](digit_example.png)
-
 ## How to Run
 1. Open the notebook in Google Colab or Jupyter.
 2. Run all cells.
